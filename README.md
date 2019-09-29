@@ -1,4 +1,3 @@
-
 [PICTURE]
 
 
@@ -24,15 +23,15 @@ https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Device
 
 # Note
 
-this repos are still in work process and is customized done.
+these repos are still in process and their customized done.
 
 this is not an official confirmation for working SoftUSB function on ESP32,
 
-it is a customized white hack version by an community user
+it is a customized white hack version by an defiantly community user
 
 containt custom doing for showing a bitbanged SoftUSB in Low Speed and defiantly :) in Full Speed
 
-High Speed is not done here - 
+High Speed is not include here - 
 
 not yet ...
 
