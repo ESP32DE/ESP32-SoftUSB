@@ -12,11 +12,15 @@ it contains more as one concept to do the stuff in custom design
 # ESP32 SoftUSB Host
 the ESP32 Soft FullSpeed USB Host is a proof of concept for doable with examples on ESP32 as an USB Host:
 
+note: just in time no public access - only private -
+
 https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Host
 
 
 # ESP32 SoftUSB Device
 the ESP32 Soft FullSpeed USB Device is a proof of concept for doable with examples on ESP32 as an USB Device:
+
+note: just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Device
 
