@@ -4,7 +4,7 @@
 # ESP32 SoftUSB
 this is a general baseline concept with different approaches, 
 
-explanations, introductionsand and few examples.
+explanations, introductions and and few examples.
 
 it contains more as one concept to do the stuff in custom design
 
@@ -14,7 +14,7 @@ SoftUSB Host driver
 
 the ESP32 Soft FullSpeed USB Host is a proof of concept for doable with examples on ESP32 as an USB Host:
 
-note: just in time no public access - only private -
+note: in the Testphase - just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Host
 
@@ -24,7 +24,7 @@ SoftUSB Device Driver
 
 the ESP32 Soft FullSpeed USB Device is a proof of concept for doable with examples on ESP32 as an USB Device:
 
-note: just in time no public access - only private -
+note: in the Testphase - just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Device
 
@@ -35,7 +35,7 @@ the ESP32 SoftUSB API helps you to create fast SoftUSB implementation in ESP32 p
 
 it contains the interface to the Host /  Device
 
-note: just in time no public access - only private -
+note: in the Testphase - just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-SoftUSB-API
 
@@ -54,7 +54,7 @@ few example description header ,
 - USB-MOUSE
 - .........
 
-note: just in time no public access - only private -
+note: in the Testphase - just in time no public access - only private -
 
 ( repo is not created just in time and is included in Host / Device repo's in example folder in the meantime )
 
@@ -64,15 +64,26 @@ note: just in time no public access - only private -
 
 these repos are still in process and their customized done.
 
+they will be step by step expanded, edited, cleared, added, merged and so on.
+
+the things are still in a early beta state.
+
 this is not an official confirmation for working SoftUSB function on ESP32,
 
-it is a customized white hack version by an defiantly community user
+it is a customized oversampling version by an defiantly community user
 
-containt custom doing for showing a bitbanged SoftUSB in Low Speed and defiantly :) in Full Speed
+containt custom doing for showing 
 
-High Speed is not include here - 
+- "bitbanged" SoftUSB in Low Speed 
+- "peripheraled" SoftUSB in Low Speed
 
-not yet ...
+and defiantly :) 
+- "peripheraled" SoftUSB in Full Speed
+
+High Speed is not include here- 
+
+( .. not yet .. ) 
+
 
 best wishes
 
