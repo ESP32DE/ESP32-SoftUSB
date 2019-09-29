@@ -1,3 +1,7 @@
+
+[PICTURE]
+
+
 # ESP32 SoftUSB
 this is a general baseline concept with different approaches, 
 
