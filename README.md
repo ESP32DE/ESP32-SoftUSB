@@ -82,7 +82,7 @@ and defiantly :)
 
 High Speed is not include here- 
 
-( .. not yet .. ) 
+( ..not yet.. ) 
 
 
 best wishes
