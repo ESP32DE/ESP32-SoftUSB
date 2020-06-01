@@ -18,12 +18,10 @@ note: in the Testphase - just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Host
 
-2020-06-01 MIDI stable  
-2020-06-01 CDC stable
-2020-06-01 DFU stable
+2020-06-01 MIDI stable 
+2020-06-01 CDC stable 
+2020-06-01 DFU stable 
 2020-06-01 STP developer 
-
-
 
 # ESP32 SoftUSB Device
 SoftUSB Device Driver
