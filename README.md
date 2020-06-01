@@ -18,6 +18,12 @@ note: in the Testphase - just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Host
 
+2020-06-01 MIDI stable  
+2020-06-01 CDC stable
+2020-06-01 DFU stable
+2020-06-01 STP developer 
+
+
 
 # ESP32 SoftUSB Device
 SoftUSB Device Driver
@@ -28,7 +34,10 @@ note: in the Testphase - just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-Soft-FullSpeed-USB-Device
 
-
+2020-06-01 MIDI stable
+2020-06-01 CDC stable
+2020-06-01 DFU stable
+2020-06-01 STP developer
 
 # ESP32 SoftUSB API
 the ESP32 SoftUSB API helps you to create fast SoftUSB implementation in ESP32 projects.
@@ -39,6 +48,10 @@ note: in the Testphase - just in time no public access - only private -
 
 https://github.com/ESP32DE/ESP32-SoftUSB-API
 
+2020-06-01 MIDI stable
+2020-06-01 CDC stable
+2020-06-01 DFU stable
+2020-06-01 STP developer
 
 
 # ESP32 SoftUSB custom
@@ -58,6 +71,17 @@ note: in the Testphase - just in time no public access - only private -
 
 ( repo is not created just in time and is included in Host / Device repo's in example folder in the meantime )
 
+2020-06-01 MIDI stable
+2020-06-01 CDC stable
+2020-06-01 DFU stable
+2020-06-01 STP developer
+2020-06-01 AUDIO developer
+2020-06-01 SPEAKER developer
+2020-06-01 SLAVE stable
+2020-06-01 HID stable
+2020-06-01 KEYBOARD stable
+2020-06-01 Mouse stable
+
 
 
 # Note
@@ -70,21 +94,11 @@ the things are still in a early beta state.
 
 this is not an official confirmation for working SoftUSB function on ESP32,
 
-it is a customized oversampling version by an defiantly community user
-
 containt custom doing for showing 
 
 - "bitbanged" SoftUSB in Low Speed 
 - "peripheraled" SoftUSB in Low Speed
 
-and defiantly :) 
+developer 
 - "peripheraled" SoftUSB in Full Speed
 
-High Speed is not include here- 
-
-( ..not yet.. ) 
-
-
-best wishes
-
-;-)
